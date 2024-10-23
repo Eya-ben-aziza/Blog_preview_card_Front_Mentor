@@ -21,7 +21,7 @@ body {
     background-color: hsl(0, 0%, 100%);
     border: 1px solid black;
     height: 460px;
-    width: 320px;
+    Max-Width: 320px;
     border-radius: 5%;
     box-shadow: 6px 6px 0px hsl(0, 0%, 0%) ;
 
@@ -33,7 +33,7 @@ body {
 }
 
 .imgArticle {
-    width: 100%;
+    Max-Width: 100%;
     height: auto;
     border-radius: 4%;
 }
@@ -42,7 +42,7 @@ body {
     font-weight: 800;
     font-size: small;
     background-color:hsl(47, 88%, 63%) ;
-    width: 70px;
+    Max-Width: 70px;
     height: 25px;
     border-radius: 10%;
     
