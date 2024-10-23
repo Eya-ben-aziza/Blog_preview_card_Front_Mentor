@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/preview_card_screenshot.jpeg)
+![](./assets/images/modified_previewCard_screenshot.jpeg)
 
 
 ### Links
