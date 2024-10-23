@@ -20,8 +20,8 @@ body {
 .block {
     background-color: hsl(0, 0%, 100%);
     border: 1px solid black;
-    height: 420px;
-    width: 300px;
+    height: 550px;
+    width: 400px;
     border-radius: 5%;
     box-shadow: 6px 6px 0px hsl(0, 0%, 0%) ;
 
